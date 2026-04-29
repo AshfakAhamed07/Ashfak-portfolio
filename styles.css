@@ -274,6 +274,9 @@ section#footer {
   padding-top: var(--space-3xl);
 }
 
+.hero_social address {
+  font-style: normal;
+}
 /* about section */
 
 /* .about_content {
